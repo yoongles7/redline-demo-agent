@@ -1,0 +1,5 @@
+agent:
+  name: CustomerSupportAgent
+  purpose: Resolve customer support tickets
+  max_iterations: 10
+  verbose: false
